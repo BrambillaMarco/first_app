@@ -15,10 +15,15 @@ L’app mostra uno **sfondo con gradiente** e un **dado interattivo** che può e
 
 ## Struttura del progetto
 lib/
+
 ├── main.dart # Entry point dell’app
+
 ├── gradient_container.dart # Widget con sfondo a gradiente
+
 └── dice_roller.dart # Widget interattivo del dado
+
 assets/
+
 └── images/ # Immagini dei dadi (dice-1.png ... dice-6.png)
 
 ---
