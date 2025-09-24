@@ -26,7 +26,7 @@ assets/
 ## Come eseguire il progetto
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/flutter-dice-roller.git
+   git clone https://github.com/BrambillaMarco/flutter-dice-roller.git
    cd flutter-dice-roller
    
 2. Assicurati di avere Flutter installato e configurato:
